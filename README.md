@@ -10,8 +10,8 @@
 ## About me
 
 - 🎓 Computer Science student at **Bar-Ilan University** (expected graduation 2027)
-- 📡 **NOC Analyst at WeCom** — monitoring live telecom systems, triaging alerts and troubleshooting network incidents
-- 🛠️ I enjoy the whole process of building software — from architecture and code to debugging and making things work better
+- 📡 **NOC Analyst at WeCom** - monitoring live telecom systems, triaging alerts and troubleshooting network incidents
+- 🛠️ I enjoy the whole process of building software - from architecture and code to debugging and making things work better
 - 🎖️ Former Sergeant in the Artillery Corps' C4I unit, working with encrypted communication systems
 
 ## Featured projects
