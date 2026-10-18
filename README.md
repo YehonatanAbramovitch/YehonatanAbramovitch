@@ -18,6 +18,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [**Multi-Elevator AI**](https://github.com/YehonatanAbramovitch/Multi-Elevator-Ai) · [live demo](https://yehonatanabramovitch.github.io/Multi-Elevator-Ai/) | Browser lab where a reinforcement-learning controller learns a building's hidden dynamics and plans elevator routes with A*, ported from Python and verified action-for-action | Python · JavaScript · Reinforcement learning · A* |
 | [**Gmail-Like Full-Stack App**](https://github.com/YehonatanAbramovitch/Gmail) · [case study](https://yehonatanabramovitch.github.io/project.html?id=gmail) | Email platform with React web and Android clients, a REST API, and a C++ Bloom-filter server that blocks malicious URLs | React · Node.js · MongoDB · C++ · Docker |
 | [**Enhanced Arkanoid Game**](https://github.com/YehonatanAbramovitch/Arkanoid-Game) · [case study](https://yehonatanabramovitch.github.io/project.html?id=arkanoid) | Brick-breaker game built with OOP and design patterns, collision detection and a 60 FPS game loop | Java · OOP |
 
